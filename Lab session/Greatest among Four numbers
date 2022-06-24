@@ -3,7 +3,7 @@
  */
 package javapgm;
 
-public class GratestAmongFourNumbers {
+public class GreatestAmongFourNumbers {
 
 	public static void main(String[] args) {
 	logic();  //calling the logic method
